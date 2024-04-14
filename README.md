@@ -18,3 +18,5 @@ Testing: The trained model can be used to predict if a new image belongs to a kn
 Output: The code saves the trained model (whale_classification_model.h5) and interprets the prediction for a single test image.
 
 Note: the data set seems to be too large to upload to GitHub so providing a link to the data source here: https://www.kaggle.com/datasets/sairam6087/humpbackwhalefinal
+
+I have uploaded a smaller data set used to initially test the code on ~100 images. The full data set is closer to ~200k images
