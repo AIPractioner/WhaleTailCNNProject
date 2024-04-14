@@ -16,3 +16,5 @@ Training: The model is trained on a portion of the data (80%) to distinguish bet
 Testing: The trained model can be used to predict if a new image belongs to a known whale or a new individual.
 
 Output: The code saves the trained model (whale_classification_model.h5) and interprets the prediction for a single test image.
+
+Note: the data set seems to be too large to upload to GitHub so providing a link to the data source here: https://www.kaggle.com/datasets/sairam6087/humpbackwhalefinal
