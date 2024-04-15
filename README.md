@@ -20,3 +20,5 @@ Output: The code saves the trained model (whale_classification_model.h5) and int
 Note: the data set seems to be too large to upload to GitHub so providing a link to the data source here: https://www.kaggle.com/datasets/sairam6087/humpbackwhalefinal
 
 I have uploaded a smaller data set used to initially test the code on ~100 images. The full data set is closer to ~200k images
+
+IN addition, the models built are two big to drop into this GitHub repository, each coming in at around 40 MB
